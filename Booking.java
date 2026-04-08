@@ -5,6 +5,4 @@ public class Booking {
     void calculate(int price) {
         total = seats * price;
     }
-} {
-    
 }
